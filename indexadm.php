@@ -57,7 +57,7 @@ $berita = mysqli_query($conn, "SELECT * FROM berita ORDER BY id DESC");
             <li class="nav-item">
               <a class="nav-link" href="pesan/admin_dashboard.php">Lihat Data</a>
             </li>
-            <a href="logAwal.html"
+            <a href="logAwal.php"
    style="font-family: Poppins; border-radius: 10px; color: white; padding:8px; ">Logout
 </a>
           </ul>
