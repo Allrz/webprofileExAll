@@ -1,0 +1,140 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: white;
+}
+
+.navbar-brand {
+  font-family: poppins;
+  color: white;
+  font-size: 25px;
+  margin-left: 25px;
+  font-weight: 600;
+}
+
+.navbar-brand:hover{
+  font-family: poppins;
+  color: rgb(234, 231, 231);
+  font-size: 25px;
+  margin-left: 25px;
+  font-weight: 600;
+}
+
+.nav-item {
+  color: white;
+  font-family: poppins;
+}
+
+.nav-link {
+  color: white;
+  font-family: poppins;
+}
+
+.navbar-nav {
+  margin-right: 30px;
+}
+
+.nav-link:hover {
+  color: rgb(201, 201, 201);
+  font-family: poppins;
+}
+
+.judul {
+  margin-top: 35px;
+  margin-bottom: 35px;
+  font-family: poppins;
+  font-weight: 450;
+}
+
+img {
+  border-radius: 10px;
+}
+
+label {
+  color: white;
+  font-family: poppins;
+  font-weight: 450;
+}
+
+.btn-blue {
+  margin-bottom: 15px;
+  font-size: 20px;
+  margin-top: 15px;
+  font-family: poppins;
+  color: white;
+  background-color: rgb(0, 149, 255);
+  padding: 10px 20px 10px 20px;
+  border-radius: 20px;
+  border: none;
+  margin-top: 35px;
+}
+
+.btn-danger {
+  font-size: 15px;
+  font-family: poppins;
+  color: white;
+  background-color: rgb(226, 11, 11);
+  padding: 5px;
+  border-radius: 20px;
+  border: none;
+  margin-top: 35px;
+}
+
+.link1 {
+  text-decoration:none;
+  color: white;
+  font-family: poppins;
+}
+
+.sub {
+  margin-bottom: 25px;
+  font-family: poppins;
+  font-weight: 370;
+}
+
+.sub2 {
+  margin-bottom: 30px;
+  font-family: poppins;
+  font-weight: 450;
+  text-align: center;
+}
+
+.sub3 {
+  font-family: poppins;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+
+.btn-blue:hover{
+  cursor: pointer;
+  background-color: rgb(130, 173, 242);
+}
+
+.desc {
+  font-family: poppins;
+  text-align: justify;
+}
+
+header {
+  background: url("header-bg.jpg") no-repeat center center;
+  background-size: cover;
+  color: white;
+}
+
+section {
+  padding: 60px 0;
+}
+
+footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+/* Responsif */
+@media (max-width: 768px) {
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+}
