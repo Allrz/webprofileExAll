@@ -50,7 +50,7 @@
             <li class="nav-item">
               <a class="nav-link" href="#contact">Kontak</a>
             </li>
-            <a href="logAwal.php" style="font-family: Poppins; border-radius: 10px; color: white; padding:8px;">Keluar
+            <a href="logAwal.html" style="font-family: Poppins; border-radius: 10px; color: white; padding:8px;">Keluar
 </a>
             </li>
           </ul>
